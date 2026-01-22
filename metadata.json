@@ -5,6 +5,6 @@
   "shell-version": [
     "49"
   ],
-  "url": "",
+  "url": "https://github.com/1metropolis/gnome-overview-tweaks",
   "settings-schema": "org.gnome.shell.extensions.overview-tweaks"
 }
