@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.overview-tweaks" path="/org/gnome/shell/extensions/overview-tweaks/" gettext-domain="gnome-shell-extensions">
+    <key type="i" name="app-icon-size">
+      <default>32</default>
+      <summary>App icon size in Overview</summary>
+      <description>Size in pixels of the app icon shown on window previews in the Overview. Set to 0 to use the default size. Recommended range: 16-64.</description>
+    </key>
+  </schema>
+</schemalist>
