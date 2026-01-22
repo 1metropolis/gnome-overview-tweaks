@@ -1,0 +1,10 @@
+{
+  "name": "Overview Tweaks",
+  "description": "Adjust UI elements in Gnome Overview",
+  "uuid": "overview-tweaks@1metropolis.github.com",
+  "shell-version": [
+    "49"
+  ],
+  "url": "",
+  "settings-schema": "org.gnome.shell.extensions.overview-tweaks"
+}
